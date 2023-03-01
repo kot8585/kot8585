@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://camo.githubusercontent.com/a73995ab41ea4dafd1d3afc34acfa889d8345b8760bed0c29b0419d6529dcc2d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465
+<img src="https://img.shields.io/badge/white?style=flat-square&logo=React&logoColor=#61DAFB"/>
